@@ -1,0 +1,39 @@
+
+#!/usr/bin/env bash
+
+brew install \
+  --cask 1password \
+  --cask 1password-cli \
+  --cask alfred \
+  --cask audio-hijack \
+  --cask balenaEtcher \
+  --cask bartender \
+  --cask bettertouchtool \
+  --cask devonthink \
+  --cask discord \
+  --cask dropbox \
+  --cask google-drive \
+  --cask hazel \
+  --cask jump \
+  --cask jump-desktop-connect \
+  --cask karabiner-elements \
+  --cask keyboard-maestro \
+  --cask loopback \
+  --cask notion \
+  --cask propresenter \
+  --cask qlab \
+  --cask reaper \
+  --cask resolume-arena \
+  --cask slack \
+  --cask spark \
+  --cask spotify \
+  --cask stats \
+  --cask the-unarchiver \
+  --cask transmit \
+  --cask ubersicht \
+  --cask virtualhere \
+  --cask virtualhereserver \
+  --cask visual-studio-code \
+  --cask wine-stable \
+  --cask wireshark \
+  --cask zoom
