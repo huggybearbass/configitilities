@@ -34,6 +34,7 @@ brew install \
   --cask virtualhere \
   --cask virtualhereserver \
   --cask visual-studio-code \
+  --cask wezterm \
   --cask wine-stable \
   --cask wireshark \
   --cask zoom
