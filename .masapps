@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+  # 571213070 \  # DaVinci Resolve 
+  # 1435957248 \  # Drafts
+  # 472226235 \  # LanScan
+  # 634159523 \  # MainStage
+  # 1470926410 \  # OmniPlayer: MKV Video Player
+mas install 571213070 1435957248 472226235 634159523 1470926410

@@ -1,0 +1,40 @@
+#!/usr/bin/env bash
+
+brew install \
+  ack \
+  aws-auth \
+  aws-console \
+  aws-shell \
+  awscli \
+  balena-cli \
+  chrome-cli \
+  docker \
+  docker-compose \
+  ffmpeg \
+  gdrive \
+  git \
+  graphql-cli \
+  grep \
+  ifstat \
+  ipmitool \
+  mackup \
+  mas \
+  nano \
+  netcat \
+  netdata \
+  nginx \
+  nmap \
+  node \
+  oath-toolkit \
+  openfortivpn \
+  python \
+  telnet \
+  transmission-cli \
+  vite \
+  vue-cli \
+  wget \
+  whois \
+  yt-dlp \
+  zssh \
+  switchaudio-osx \
+  yarn
