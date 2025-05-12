@@ -1,0 +1,52 @@
+
+#!/usr/bin/env bash
+
+brew install \
+  --cask 1password \
+  --cask 1password-cli \
+  --cask ableton-live-suite \
+  --cask alfred \
+  --cask audio-hijack \
+  --cask balenaEtcher \
+  --cask bartender \
+  --cask chronosync \
+  --cask cycling74-max \
+  --cask devonthink \
+  --cask discord \
+  --cask disk-drill \
+  --cask drawio \
+  --cask dropbox \
+  --cask google-chrome \
+  --cask google-drive \
+  --cask ilok-license-manager \
+  --cask jump \
+  --cask jump-desktop-connect \
+  --cask karabiner-elements \
+  --cask keyboard-maestro \
+  --cask kindle \
+  --cask license-control-center \
+  --cask loopback \
+  --cask losslesscut \
+  --cask notion \
+  --cask post-haste \
+  --cask propresenter \
+  --cask qlab \
+  --cask reaper \
+  --cask resilio-sync \
+  --cask resolume-arena \
+  --cask slack \
+  --cask spark \
+  --cask splice \
+  --cask spotify \
+  --cask stats \
+  --cask the-unarchiver \
+  --cask touchosc \
+  --cask touchosc-bridge \
+  --cask touchosc-editor \
+  --cask ubersicht \
+  --cask virtualhere \
+  --cask virtualhereserver \
+  --cask visual-studio-code \
+  --cask wezterm \
+  --cask wireshark \
+  --cask zoom
